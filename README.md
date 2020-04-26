@@ -1,6 +1,6 @@
 # my-leetcode-solutions
 My Leetcode Solutions in Java
-- Backtracking
+- Backtracking [medium]
 1. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/).
 2. [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/).
 3. [Combination Sum](https://leetcode.com/problems/combination-sum/).
