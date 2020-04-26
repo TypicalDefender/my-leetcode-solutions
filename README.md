@@ -1,4 +1,4 @@
-# my-leetcode-solutions
+# LeetCode Problems and Solutions
 My Leetcode Solutions in Java
 - Backtracking [medium]
 1. [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/).
